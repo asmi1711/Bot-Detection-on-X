@@ -49,3 +49,17 @@ Each model is evaluated on:
 - Classification Report (Precision, Recall, F1-score)
 - Confusion Matrix
 
+## 📈 Results and Analysis
+
+| Model                | Precision | Accuracy | Recall | F1-Score |
+|----------------------|-----------|----------|--------|----------|
+| Logistic Regression  | 0.74      | 0.7384   | 0.8119 | 0.74     |
+| K-Nearest Neighbors  | 0.83      | 0.8265   | 0.8090 | 0.83     |
+| XGBoost              | 0.86      | 0.7400   | 0.8600 | 0.86     |
+| Random Forest        | 0.88      | 0.8300   | 0.8800 | 0.88     |
+| LSTM                 | 0.82      | 0.8642   | 0.8100 | 0.81     |
+| CNN                  | 0.81      | 0.8837   | 0.8100 | 0.80     |
+
+---
+## 📈 Best Performing Model
+-Random Forest
