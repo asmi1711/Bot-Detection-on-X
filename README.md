@@ -1,6 +1,6 @@
-# Bot Detection on X
-Comparitive study on bot detection on twitter/X using Traditional, Ensemble and Deep Learning Models
 # 🤖 Twitter Bot Detection using Machine Learning & Deep Learning
+Comparitive study on bot detection on twitter/X using Traditional, Ensemble and Deep Learning Models
+
 
 This project focuses on detecting bot accounts on Twitter using a balanced dataset and multiple classification models. It combines both traditional **machine learning algorithms** (Random Forest, XGBoost, Logistic Regression, K-Nearest Neighbors) and **deep learning models** (CNN, LSTM) to achieve high accuracy and reliable classification.
 
